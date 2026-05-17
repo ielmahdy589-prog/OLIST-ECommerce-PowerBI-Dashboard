@@ -4,16 +4,20 @@ Interactive Power BI dashboard analyzing 100K+ orders from Brazil's largest e-co
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](screenshots/executive.png)
+![Executive Overview](<img width="2557" height="1431" alt="executive" src="https://github.com/user-attachments/assets/4c479c30-da56-4064-90f8-354d68bbd780" />
+)
 
 ### Product Analysis
-![Product Analysis](screenshots/product.png)
+![Product Analysis](<img width="2648" height="1481" alt="product" src="https://github.com/user-attachments/assets/6d3e4f65-91d9-4db8-a4e6-8e685b727934" />
+)
 
 ### Customer Analysis
-![Customer Analysis](screenshots/customer.png)
+![Customer Analysis](<img width="2511" height="1428" alt="customer" src="https://github.com/user-attachments/assets/c7eb7af1-d3cc-4fed-b60f-a84826674530" />
+)
 
 ### Delivery and Operations
-![Delivery and Operations](screenshots/delivery.png)
+![Delivery and Operations](<img width="2535" height="1405" alt="delivery" src="https://github.com/user-attachments/assets/6b101db9-d15d-4652-8609-08f2ef9b13fd" />
+)
 
 ---
 
