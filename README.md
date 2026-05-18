@@ -27,6 +27,7 @@ The Power BI file is too large to host on GitHub directly.
 You can download it from the link below:
 
 Power Bi Link: [https://app.powerbi.com/links/ThcByw5DEs?ctid=266f6ed8-6f7c-4eb0-80cb-8fe393cea47d&pbi_source=linkShare]
+Dataset link Kaggle: [https://www.kaggle.com/code/kabure/simple-eda-sales-and-customer-patterns/input]
 
 ---
 
