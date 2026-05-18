@@ -26,10 +26,7 @@ Interactive Power BI dashboard analyzing 100K+ orders from Brazil's largest e-co
 The Power BI file is too large to host on GitHub directly.
 You can download it from the link below:
 
-Google Drive Link: [https://app.powerbi.com/links/zYOOGeqpsU?ctid=266f6ed8-6f7c-4eb0-80cb-8fe393cea47d&pbi_source=linkSharei](#)
-
-To open the file you need Power BI Desktop, which is free to download from:
-https://powerbi.microsoft.com/desktop
+Power Bi Link: [https://app.powerbi.com/links/ThcByw5DEs?ctid=266f6ed8-6f7c-4eb0-80cb-8fe393cea47d&pbi_source=linkShare]
 
 ---
 
