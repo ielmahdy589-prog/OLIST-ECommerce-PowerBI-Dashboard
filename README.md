@@ -26,7 +26,7 @@ Interactive Power BI dashboard analyzing 100K+ orders from Brazil's largest e-co
 The Power BI file is too large to host on GitHub directly.
 You can download it from the link below:
 
-Power Bi Link: [https://app.powerbi.com/links/ThcByw5DEs?ctid=266f6ed8-6f7c-4eb0-80cb-8fe393cea47d&pbi_source=linkShare]
+Power Bi Link: https://app.powerbi.com/links/SaiKza7ug8?ctid=266f6ed8-6f7c-4eb0-80cb-8fe393cea47d&pbi_source=linkShare&bookmarkGuid=23d2ece9-d695-4593-97df-7d3284839e5d
 Dataset link Kaggle: [https://www.kaggle.com/code/kabure/simple-eda-sales-and-customer-patterns/input]
 
 ---
